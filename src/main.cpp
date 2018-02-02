@@ -8,7 +8,7 @@
 #include "../include/ESCOutput.h"
 #include "../include/PIDController.h"
 #include "../include/PWMReceiver.h"
-#include "../include/arming_state.h"
+#include "../include/ArmingState.h"
 #include "../include/error_blink.h"
 #include "../include/imu.h"
 #include "../include/pins.h"
